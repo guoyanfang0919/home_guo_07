@@ -1,0 +1,2 @@
+Receive all emails, except those I unsubscribe from.
+接收所有的电子邮件，除了那些我退订。
